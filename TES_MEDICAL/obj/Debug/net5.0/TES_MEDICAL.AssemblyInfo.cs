@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TES_MEDICAL-7412AA6F-D899-4E71-ACCA-63DA00C55203")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TES_MEDICAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
