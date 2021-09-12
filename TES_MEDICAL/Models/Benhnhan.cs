@@ -9,6 +9,8 @@ namespace TES_MEDICAL.Models
     {
         public int BenhnhanID { get; set; }
         public string TenBenhNhan { get; set; }
+        
+        public string Address { get; set; }
 
     }
 }
