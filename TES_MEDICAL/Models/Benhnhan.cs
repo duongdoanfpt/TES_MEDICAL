@@ -8,6 +8,7 @@ namespace TES_MEDICAL.Models
     public class Benhnhan
     {
         public int BenhnhanID { get; set; }
+        public string BenhNhan_Name { get; set; }
 
     }
 }
