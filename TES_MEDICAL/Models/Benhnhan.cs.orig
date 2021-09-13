@@ -8,9 +8,12 @@ namespace TES_MEDICAL.Models
     public class Benhnhan
     {
         public int BenhnhanID { get; set; }
+<<<<<<< HEAD
         public string TenBenhNhan { get; set; }
-        
+=======
+        public string BenhNhan_Name { get; set; }
         public string Address { get; set; }
+>>>>>>> origin/tanlocdev
 
     }
 }
