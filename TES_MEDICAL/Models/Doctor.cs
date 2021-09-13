@@ -9,5 +9,6 @@ namespace TES_MEDICAL.Models
     {
         Guid Id { get; set; }
         string Name { get; set; }
+        string ChuyenKhoa { get; set; }
     }
 }
