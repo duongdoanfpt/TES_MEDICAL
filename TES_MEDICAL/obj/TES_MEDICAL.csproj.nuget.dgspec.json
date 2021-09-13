@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DUANTOTNGHIEP\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj": {}
+    "C:\\PROJECT\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj": {}
   },
   "projects": {
-    "D:\\DUANTOTNGHIEP\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj": {
+    "C:\\PROJECT\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DUANTOTNGHIEP\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj",
+        "projectUniqueName": "C:\\PROJECT\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj",
         "projectName": "TES_MEDICAL",
-        "projectPath": "D:\\DUANTOTNGHIEP\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\DUANTOTNGHIEP\\TES_MEDICAL\\TES_MEDICAL\\obj\\",
+        "projectPath": "C:\\PROJECT\\TES_MEDICAL\\TES_MEDICAL\\TES_MEDICAL.csproj",
+        "packagesPath": "C:\\Users\\Duydt\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJECT\\TES_MEDICAL\\TES_MEDICAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Duydt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
