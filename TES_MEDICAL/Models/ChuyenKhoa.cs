@@ -8,5 +8,8 @@ namespace TES_MEDICAL.Models
     public class ChuyenKhoa
     {
         Guid id { get; set; }
+
+        public string Name { get; set; }
+
     }
 }
