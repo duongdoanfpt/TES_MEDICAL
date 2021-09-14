@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TES_MEDICAL
-build_property.ProjectDir = C:\PROJECT\TES_MEDICAL\TES_MEDICAL\
+build_property.ProjectDir = C:\PROJECT\Dev\TES_MEDICAL\TES_MEDICAL\
